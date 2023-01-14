@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "cb71af9c8ff62661",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8cd540735f0160b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6950c60729f71d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/MOOC选择题整理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a110affeb2149eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法设计与分析/BFS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bdcb0f2e71c3dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "商业模式与需求/商业模式画布.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80530446e15f29e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "商业模式与需求/商业模式画布.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74523fa89be7f2db",
+    "type": "split",
+    "children": [
+      {
+        "id": "337cf646c0bdf1e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4844262c1ee14ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab7d2b976a69a4b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "381073a2d5449cec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00996f5bad0cb169",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9f35fa050d9027b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adfdef345b439322",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "商业模式与需求/商业模式画布.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "611e65d4db773c9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "商业模式与需求/商业模式画布.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9001332896a3e9a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "957cf9c48b07b088",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "商业模式与需求/商业模式画布.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4bdcb0f2e71c3dd3",
+  "lastOpenFiles": [
+    "操作系统/6-并发程序设计.md",
+    "操作系统/2-处理器管理.md",
+    "操作系统/MOOC选择题整理.md",
+    "操作系统/3-内存管理.md",
+    "商业模式与需求/商业模式画布.md",
+    "操作系统/1-操作系统概述.md",
+    "操作系统/应用题整理.md",
+    "算法设计与分析/BFS.md",
+    "算法设计与分析/MST.md",
+    "Pasted image 20221201162417.png"
+  ]
+}
